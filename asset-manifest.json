@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d48d9316.css",
-    "main.js": "/static/js/main.fcba1aa4.js",
+    "main.css": "/static/css/main.73c61974.css",
+    "main.js": "/static/js/main.3395c4bf.js",
+    "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/makeagame.png": "/static/media/makeagame.ff2190d351c255dd086e.png",
     "static/media/rocket.png": "/static/media/rocket.9657b1d1b8cb0b29ed8c.png",
-    "static/media/logo.png": "/static/media/logo.073a10615624c3396d17.png",
+    "static/media/ARCADE_N.TTF": "/static/media/ARCADE_N.a5e35a469c649a22831b.TTF",
+    "static/media/jam_logo.png": "/static/media/jam_logo.5de43fd3a907d7195706.png",
     "index.html": "/index.html",
-    "main.d48d9316.css.map": "/static/css/main.d48d9316.css.map",
-    "main.fcba1aa4.js.map": "/static/js/main.fcba1aa4.js.map"
+    "main.73c61974.css.map": "/static/css/main.73c61974.css.map",
+    "main.3395c4bf.js.map": "/static/js/main.3395c4bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d48d9316.css",
-    "static/js/main.fcba1aa4.js"
+    "static/css/main.73c61974.css",
+    "static/js/main.3395c4bf.js"
   ]
 }
