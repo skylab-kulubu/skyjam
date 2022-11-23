@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.73c61974.css",
-    "main.js": "/static/js/main.3395c4bf.js",
+    "main.js": "/static/js/main.7af4770e.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/makeagame.png": "/static/media/makeagame.ff2190d351c255dd086e.png",
     "static/media/rocket.png": "/static/media/rocket.9657b1d1b8cb0b29ed8c.png",
@@ -9,10 +9,10 @@
     "static/media/jam_logo.png": "/static/media/jam_logo.5de43fd3a907d7195706.png",
     "index.html": "/index.html",
     "main.73c61974.css.map": "/static/css/main.73c61974.css.map",
-    "main.3395c4bf.js.map": "/static/js/main.3395c4bf.js.map"
+    "main.7af4770e.js.map": "/static/js/main.7af4770e.js.map"
   },
   "entrypoints": [
     "static/css/main.73c61974.css",
-    "static/js/main.3395c4bf.js"
+    "static/js/main.7af4770e.js"
   ]
 }
