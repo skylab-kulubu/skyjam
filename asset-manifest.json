@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.37e32f88.css",
-    "main.js": "/static/js/main.55ad92fa.js",
+    "main.js": "/static/js/main.a8c22dcb.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/1.png": "/static/media/1.092bbc212293d0d512a9.png",
     "static/media/makeagame.png": "/static/media/makeagame.ff2190d351c255dd086e.png",
+    "static/media/7.png": "/static/media/7.c4ab7fb7d3146f765285.png",
     "static/media/funverseName.png": "/static/media/funverseName.906c72ee3541b9d150f4.png",
     "static/media/lavie.png": "/static/media/lavie.18d043ebafcf4428597e.png",
     "static/media/corny logo-01.png": "/static/media/corny logo-01.f6288376c69964fb3418.png",
@@ -27,10 +28,10 @@
     "static/media/castrum.svg": "/static/media/castrum.7f8f9a2673b348afe39b3f9b02931015.svg",
     "index.html": "/index.html",
     "main.37e32f88.css.map": "/static/css/main.37e32f88.css.map",
-    "main.55ad92fa.js.map": "/static/js/main.55ad92fa.js.map"
+    "main.a8c22dcb.js.map": "/static/js/main.a8c22dcb.js.map"
   },
   "entrypoints": [
     "static/css/main.37e32f88.css",
-    "static/js/main.55ad92fa.js"
+    "static/js/main.a8c22dcb.js"
   ]
 }
