@@ -1,36 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.653d9b6b.css",
-    "main.js": "/static/js/main.bfb40230.js",
+    "main.js": "/static/js/main.8dc6f074.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
+    "static/media/haribo.png": "/static/media/haribo.2735f6fa22925935279b.png",
     "static/media/makeagame.png": "/static/media/makeagame.ff2190d351c255dd086e.png",
+    "static/media/gamecircle.png": "/static/media/gamecircle.6f30eab96c072275a64a.png",
     "static/media/7.png": "/static/media/7.c4ab7fb7d3146f765285.png",
-    "static/media/funverseName.png": "/static/media/funverseName.906c72ee3541b9d150f4.png",
     "static/media/skylab.png": "/static/media/skylab.6193b221adfdb3d9c9ad.png",
-    "static/media/lavie.png": "/static/media/lavie.18d043ebafcf4428597e.png",
     "static/media/corny logo-01.png": "/static/media/corny logo-01.f6288376c69964fb3418.png",
     "static/media/4.png": "/static/media/4.6737f4660b53a755b7d9.png",
-    "static/media/eyvap.png": "/static/media/eyvap.5e368b66440489dac71c.png",
     "static/media/5.png": "/static/media/5.60f1f11a78aa48e2cd81.png",
     "static/media/6.png": "/static/media/6.a8ec2c0da2b4792875af.png",
     "static/media/rocket.png": "/static/media/rocket.9657b1d1b8cb0b29ed8c.png",
+    "static/media/s4m_logo.png": "/static/media/s4m_logo.1ae4dcfaaf26345bfe25.png",
     "static/media/3.png": "/static/media/3.e1dde3fd915a46d3e57a.png",
-    "static/media/thegame.png": "/static/media/thegame.1ff0dd876c5a92d91594.png",
     "static/media/ARCADE_N.TTF": "/static/media/ARCADE_N.a5e35a469c649a22831b.TTF",
     "static/media/narcade.jpeg": "/static/media/narcade.6fdc798691c14aef6efa.jpeg",
     "static/media/jam_logo.png": "/static/media/jam_logo.91d1854517609b06d530.png",
-    "static/media/muhiku.png": "/static/media/muhiku.efb90d0273188996d95c.png",
     "static/media/gamfed.png": "/static/media/gamfed.e608090664bb5eb786bb.png",
-    "static/media/gamefactory.png": "/static/media/gamefactory.017d860ea27ff3d9adae.png",
-    "static/media/webtekno.png": "/static/media/webtekno.87d0fef0d8b1ba449721.png",
     "static/media/castrum.svg": "/static/media/castrum.7f8f9a2673b348afe39b3f9b02931015.svg",
+    "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
     "main.653d9b6b.css.map": "/static/css/main.653d9b6b.css.map",
-    "main.bfb40230.js.map": "/static/js/main.bfb40230.js.map"
+    "main.8dc6f074.js.map": "/static/js/main.8dc6f074.js.map"
   },
   "entrypoints": [
     "static/css/main.653d9b6b.css",
-    "static/js/main.bfb40230.js"
+    "static/js/main.8dc6f074.js"
   ]
 }
