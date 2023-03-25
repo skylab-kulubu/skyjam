@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.653d9b6b.css",
-    "main.js": "/static/js/main.8dc6f074.js",
+    "main.js": "/static/js/main.33e8a296.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/haribo.png": "/static/media/haribo.2735f6fa22925935279b.png",
@@ -24,10 +24,10 @@
     "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
     "main.653d9b6b.css.map": "/static/css/main.653d9b6b.css.map",
-    "main.8dc6f074.js.map": "/static/js/main.8dc6f074.js.map"
+    "main.33e8a296.js.map": "/static/js/main.33e8a296.js.map"
   },
   "entrypoints": [
     "static/css/main.653d9b6b.css",
-    "static/js/main.8dc6f074.js"
+    "static/js/main.33e8a296.js"
   ]
 }
