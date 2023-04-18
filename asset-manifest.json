@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3bff8b9f.css",
-    "main.js": "/static/js/main.b1e35557.js",
+    "main.js": "/static/js/main.2601e266.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/toyed.png": "/static/media/toyed.b7d261f8f2d76468a292.png",
@@ -32,14 +32,15 @@
     "static/media/dorock.png": "/static/media/dorock.0550f52bc07b53818604.png",
     "static/media/bebeto.jpg": "/static/media/bebeto.ada730765d692e78c9d4.jpg",
     "static/media/suog.png": "/static/media/suog.3173146799508f8ffb50.png",
+    "static/media/buglabzone.png": "/static/media/buglabzone.d19578c94c78416bd10e.png",
     "static/media/castrum.svg": "/static/media/castrum.7f8f9a2673b348afe39b3f9b02931015.svg",
     "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
     "main.3bff8b9f.css.map": "/static/css/main.3bff8b9f.css.map",
-    "main.b1e35557.js.map": "/static/js/main.b1e35557.js.map"
+    "main.2601e266.js.map": "/static/js/main.2601e266.js.map"
   },
   "entrypoints": [
     "static/css/main.3bff8b9f.css",
-    "static/js/main.b1e35557.js"
+    "static/js/main.2601e266.js"
   ]
 }
