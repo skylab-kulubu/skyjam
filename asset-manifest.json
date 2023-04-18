@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1704dd63.css",
-    "main.js": "/static/js/main.5f1519bf.js",
+    "main.css": "/static/css/main.3bff8b9f.css",
+    "main.js": "/static/js/main.b1e35557.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/toyed.png": "/static/media/toyed.b7d261f8f2d76468a292.png",
@@ -35,11 +35,11 @@
     "static/media/castrum.svg": "/static/media/castrum.7f8f9a2673b348afe39b3f9b02931015.svg",
     "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
-    "main.1704dd63.css.map": "/static/css/main.1704dd63.css.map",
-    "main.5f1519bf.js.map": "/static/js/main.5f1519bf.js.map"
+    "main.3bff8b9f.css.map": "/static/css/main.3bff8b9f.css.map",
+    "main.b1e35557.js.map": "/static/js/main.b1e35557.js.map"
   },
   "entrypoints": [
-    "static/css/main.1704dd63.css",
-    "static/js/main.5f1519bf.js"
+    "static/css/main.3bff8b9f.css",
+    "static/js/main.b1e35557.js"
   ]
 }
