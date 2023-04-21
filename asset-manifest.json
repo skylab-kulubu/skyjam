@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3bff8b9f.css",
-    "main.js": "/static/js/main.2601e266.js",
+    "main.js": "/static/js/main.b5e51688.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/toyed.png": "/static/media/toyed.b7d261f8f2d76468a292.png",
@@ -19,9 +19,11 @@
     "static/media/starverse.png": "/static/media/starverse.152402e60b17bad4ac0d.png",
     "static/media/toged.png": "/static/media/toged.79352b356b182e990f01.png",
     "static/media/rocket.png": "/static/media/rocket.9657b1d1b8cb0b29ed8c.png",
+    "static/media/2medya.png": "/static/media/2medya.97759c32baa2282f3a2d.png",
     "static/media/s4m_logo.png": "/static/media/s4m_logo.1ae4dcfaaf26345bfe25.png",
     "static/media/esenler.png": "/static/media/esenler.bc7b298216ed83408c4a.png",
     "static/media/narcade.png": "/static/media/narcade.98e44f7f5edc6ebb0db4.png",
+    "static/media/remoob.png": "/static/media/remoob.257456262176907fad2c.png",
     "static/media/ioi.png": "/static/media/ioi.0f64919799bb5400f36a.png",
     "static/media/gamizm-logo.png": "/static/media/gamizm-logo.86192dae62664c477224.png",
     "static/media/ARCADE_N.TTF": "/static/media/ARCADE_N.a5e35a469c649a22831b.TTF",
@@ -37,10 +39,10 @@
     "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
     "main.3bff8b9f.css.map": "/static/css/main.3bff8b9f.css.map",
-    "main.2601e266.js.map": "/static/js/main.2601e266.js.map"
+    "main.b5e51688.js.map": "/static/js/main.b5e51688.js.map"
   },
   "entrypoints": [
     "static/css/main.3bff8b9f.css",
-    "static/js/main.2601e266.js"
+    "static/js/main.b5e51688.js"
   ]
 }
