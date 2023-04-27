@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9b3db721.css",
-    "main.js": "/static/js/main.6849a376.js",
+    "main.js": "/static/js/main.2bf140cc.js",
     "static/media/question_mark.png": "/static/media/question_mark.386fb248991d4b0cd47d.png",
     "static/media/nescafe.png": "/static/media/nescafe.8c01eed5ce283ddba154.png",
     "static/media/endless.png": "/static/media/endless.18c2e5351477e11d3b75.png",
     "static/media/cat.png": "/static/media/cat.460f4c03e07ea6ec3a66.png",
     "static/media/cs.png": "/static/media/cs.e086590cbea808f109de.png",
     "static/media/toyed.png": "/static/media/toyed.340a89eb0aee20b0f942.png",
+    "static/media/dojo.png": "/static/media/dojo.547382c8bab2e482edaf.png",
     "static/media/haribo.png": "/static/media/haribo.2735f6fa22925935279b.png",
     "static/media/altın.png": "/static/media/altın.d1fea22a7e155e3ef5d9.png",
     "static/media/makeagame.png": "/static/media/makeagame.ff2190d351c255dd086e.png",
@@ -16,6 +17,7 @@
     "static/media/skylab.png": "/static/media/skylab.6193b221adfdb3d9c9ad.png",
     "static/media/corny logo-01.png": "/static/media/corny logo-01.f6288376c69964fb3418.png",
     "static/media/frpnet.png": "/static/media/frpnet.b693232ff2ece01ab303.png",
+    "static/media/metaverse.png": "/static/media/metaverse.5944bed6af0ab26bc358.png",
     "static/media/uskudar.png": "/static/media/uskudar.5560d3eb43ab4ada87b8.png",
     "static/media/gamfed.png": "/static/media/gamfed.e608090664bb5eb786bb.png",
     "static/media/sensemotion.png": "/static/media/sensemotion.9611d6b23ebbb04cdfce.png",
@@ -40,13 +42,12 @@
     "static/media/suog.png": "/static/media/suog.3173146799508f8ffb50.png",
     "static/media/buglabzone.png": "/static/media/buglabzone.d19578c94c78416bd10e.png",
     "static/media/castrum.svg": "/static/media/castrum.7f8f9a2673b348afe39b3f9b02931015.svg",
-    "static/media/crytek-logo@logotyp.us.svg": "/static/media/crytek-logo@logotyp.us.142276351867ccde72a5bb4e43c902da.svg",
     "index.html": "/index.html",
     "main.9b3db721.css.map": "/static/css/main.9b3db721.css.map",
-    "main.6849a376.js.map": "/static/js/main.6849a376.js.map"
+    "main.2bf140cc.js.map": "/static/js/main.2bf140cc.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3db721.css",
-    "static/js/main.6849a376.js"
+    "static/js/main.2bf140cc.js"
   ]
 }
